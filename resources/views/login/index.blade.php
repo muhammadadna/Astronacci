@@ -47,6 +47,14 @@
         </main>
     </div>
 </div>
+<br>
+<br>
+<br>
+<h4>User Untuk Login</h4>
+<p>1. email : admin@gmail.com | Pass : password | Sebagai admin</p>
+<p>2. email : user1@gmail.com | Pass : password | Sebagai member Star (All Posts)</p>
+<p>3. email : user2@gmail.com | Pass : password | Sebagai member permium (10 Posts)</p>
+<p>4. email : user3@gmail.com | Pass : password | Sebagai member regular (3 Posts)</p>
 
 
 @endsection
